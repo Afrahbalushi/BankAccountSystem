@@ -1,0 +1,14 @@
+YOUR BANK ACCOUNT DETAILS 
+
+----------------------------------------------------
+
+Account Number: 1033900921
+Account Holder Name: Afrah Ali
+Deposit Amount: 954.0
+Withdraw Amount: 89.0
+Total Balance: 865.0
+Interest Time: 2 months 
+Interest Rate: 0.02
+Interest Amount: 34.6
+
+----------------------------------------------------
